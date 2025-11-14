@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\pozzi\\source\\repos\\LR5.4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\pozzi\\source\\repos\\LR5.4\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{40AAC41C-1275-4945-9B11-374C97A92301}|LR5.4\\LR5.4.vcxproj|C:\\Users\\pozzi\\source\\repos\\LR5.4\\LR5.4\\LR5.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{40AAC41C-1275-4945-9B11-374C97A92301}|LR5.4\\LR5.4.vcxproj|solutionrelative:LR5.4\\LR5.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\pozzi\\source\\repos\\LR5.4\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\pozzi\\source\\repos\\LR5.4\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-14T15:28:12.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "LR5.4.cpp",
               "DocumentMoniker": "C:\\Users\\pozzi\\source\\repos\\LR5.4\\LR5.4\\LR5.4.cpp",
               "RelativeDocumentMoniker": "LR5.4\\LR5.4.cpp",
               "ToolTip": "C:\\Users\\pozzi\\source\\repos\\LR5.4\\LR5.4\\LR5.4.cpp",
               "RelativeToolTip": "LR5.4\\LR5.4.cpp",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAC0AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAQwDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-14T14:48:38.998Z",
               "EditorCaption": ""
